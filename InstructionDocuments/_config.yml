@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Joseph Rachiele
 description              : Joseph Rachiele - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "https://github.com/Cornell-MAE-UG/Joseph-Rachiele-Portfolio-jar574.git"
 
 # Theme and Style
 theme: jekyll-theme-minimal
