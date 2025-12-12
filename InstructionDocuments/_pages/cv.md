@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Joseph Rachiele - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jar574@cornell.edu](mailto:jar574@cornell.edu) | | | **Phone:** +1 347-373-0650
 
 ---
 
