@@ -15,3 +15,4 @@ Take a look at <a href="{{"/projects/"| relative_url}}> My Projects </a> and <a 
 
 [My Projects]({{ "/projects/" | relative_url }})
 
+[📄 View MAE 3260 Final Groupwork Report (PDF)]({{ site.baseurl }}/assets/PDFs/MAE3260_FinalGroupwork_Report.pdf)
