@@ -16,10 +16,12 @@ title: Joseph Rachiele
  
 My name is {{ site.name }}, and I am undergraduate senior Mechanical Engineering major at Cornell University.
 
-Take a look at <a href="{{ "projects/" | relative_url}}> My Projects </a> <a href="{{ "/cv/ | relative_url}}> My CV</a>
+Take a look at:
+
+ <a href="{{ "projects/" | relative_url}}> My Projects </a> <a href="{{ "/cv/ | relative_url}}> My CV</a>
 
 [My Projects]({{ "/projects/" | relative_url }})
 
-[📄 View MAE 3260 Final Groupwork Report (PDF)]({{ "/assets/PDFs/MAE3260_FinalGroupwork_Report.pdf" | relative_url }})
 
+[📄 View MAE 3260 Final Groupwork Report (PDF)]({{ '/assets/MAE3260_FinalGroupwork_Report.pdf' | relative_url }})
 
