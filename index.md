@@ -6,7 +6,12 @@ title: Joseph Rachiele
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }})
+
+<img 
+  src="{{ 'assets/images/profile-pic.jpg' | relative_url }}" 
+  alt="Profile Picture"
+  style="width: 150px; border-radius: 50%;"
+/>
 
  
 My name is {{ site.name }}, and I am undergraduate senior Mechanical Engineering major at Cornell University.
