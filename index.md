@@ -20,5 +20,6 @@ Take a look at <a href="{{ "projects/" | relative_url}}> My Projects </a> <a hre
 
 [My Projects]({{ "/projects/" | relative_url }})
 
-[📄 View MAE 3260 Final Groupwork Report (PDF)]({{ "assets/PDFs/MAE3260_FinalGroupwork_Report.pdf" | relative_url }})
+[📄 View MAE 3260 Final Groupwork Report (PDF)]({{ "/assets/PDFs/MAE3260_FinalGroupwork_Report.pdf" | relative_url }})
+
 
