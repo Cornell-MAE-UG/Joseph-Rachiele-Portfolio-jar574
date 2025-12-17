@@ -25,3 +25,4 @@ Take a look at:
 
 [📄 View MAE 3260 Final Groupwork Report (PDF)]({{ '/assets/MAE3260_FinalGroupwork_Report.pdf' | relative_url }})
 
+[📄 View MAE 4272 Blade Design Final Report (PDF)]({{ '/assets/MAE4272-BladeDesignReport.pdf' | relative_url }})
