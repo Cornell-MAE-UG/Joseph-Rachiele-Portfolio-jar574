@@ -2,7 +2,7 @@
 layout: project
 title: Blade Design
 description: Blade Design Project for Fluids Lab
-technologies: [MATLAB, labView, Excel]
+technologies: [MATLAB, LabView, Excel]
 image: /assets/images/Blades.jpg
 ---
 
