@@ -2,13 +2,13 @@
 layout: project
 title: Blade Design
 description: Blade Design Project for Fluids Lab
-technologies: [MATLAB, LabView, Excel]
+technologies: [MATLAB, CAD, LabView, Excel]
 image: /assets/images/Blades.jpg
 ---
 
 
 
-This project focused on the design, fabrication, and experimental evaluation of small wind-turbine blades optimized for safe operation and maximum power extraction under constrained operating conditions. The blades were designed to operate at a fixed rotational speed of 1500 RPM under a mean free-stream velocity of 4.59 m/s, while satisfying geometric and safety constraints. 
+This project focused on the design, fabrication, and experimental evaluation of small wind-turbine blades optimized for safe operation and maximum power extraction under constrained operating conditions. The blades were designed to operate at a fixed rotational speed of 1500 RPM under a mean free-stream velocity of 4.59 m/s, while satisfying geometric constraints. 
 
 ![Photo of CAD] ({{ "/assets/images/CADofBlades.jpg" | relative_url }}){: .inline-image-l}
 
