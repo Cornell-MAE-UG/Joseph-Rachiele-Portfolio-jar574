@@ -17,4 +17,4 @@ Once in the air, the drone will then respond to motion and objects detected by i
 
 The lateral and forward-backwaerd motion of the drone is dependent upon an uneven rotation of the blades which is dictated by a feedback system dynamic. When your hand goes under the drone and also moves forward the back propellers will accelerate more than the front propellers. This feedback will push the drone forward. The same and opposite can be done to push the drone backwards. The drone will also move laterally away from objects or your hand. The drone will also react after hitting objects, thus there is a protective plastic shell to shield the propellers from its semi-frequent crashes (shown in image 3).
 
-See (the hopefully working) PDF for more details.
+See the PDF for more details.
