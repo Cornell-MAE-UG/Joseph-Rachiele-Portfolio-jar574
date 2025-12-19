@@ -11,11 +11,7 @@ This project focused on the design, fabrication, and experimental evaluation of 
 
 ![Photo of CAD]({{ "/assets/images/CADofBlades.jpg" | relative_url }})
 
-<img 
-  src="{{ '/assets/images/CADofBlades.jpg' | relative_url }}" 
-  alt="CAD of turbine blades"
-  style="max-width: 800px; width: 100%; height: auto; display: block; margin: 2rem auto;"
->
+<img src="{{ '/assets/images/CADofBlades.jpg' | relative_url }}" alt="CAD of turbine blades" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 
 
