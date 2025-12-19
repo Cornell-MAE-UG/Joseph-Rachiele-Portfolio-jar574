@@ -18,6 +18,6 @@ We analyzed the ASME code of ethics whose fundamental canons are essentials for 
 The world is in the hands of the engineers who design it. Those hands must prioritize the good of all humanity,
 
 
-![Photo of CAD]({{ "/assets/images/CADofBlades.jpg" | relative_url }})
+![Photo of CAD]({{ "/assets/images/ASME-Canons.jpg" | relative_url }})
 
 
