@@ -11,6 +11,13 @@ This project focused on the design, fabrication, and experimental evaluation of 
 
 ![Photo of CAD]({{ "/assets/images/CADofBlades.jpg" | relative_url }})
 
+<img 
+  src="{{ '/assets/images/CADofBlades.jpg' | relative_url }}" 
+  alt="CAD of turbine blades"
+  style="max-width: 800px; width: 100%; height: auto; display: block; margin: 2rem auto;"
+>
+
+
 
 Safety considerations guided all design choices. From Lab 5 and in class analysis, the dominant failure modes were identified to be flapwise bending fracture and uncontrolled overspeeding due to torque brake failure. A blade length of 4 inches was selected to maintain acceptable factors of safety for both failure modes. At the target rate of 1500RPM and upper-bound free-stream velocity of 7.74 m/s, our length selection maintained a factor of safety of 1.24 with respect to the torque brake limit and 10 with respect to flap wise bending. While our conservative design ensured structural integrity, it severely diminished power outputs.    
 
