@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Blade Design (new)
+title: MAE4272 Blade Design
 description: Blade Design Project for Fluids Lab
 technologies: [MATLAB, CAD, LabView, Excel]
 image: /assets/images/Blades.jpg
