@@ -15,10 +15,7 @@ Throughout the semester we guided our focus to ask critical questions that would
 
 We analyzed the ASME code of ethics whose fundamental canons are essentials for all engineers to live by in order to ensure a safer world. In the specific Boeing case we analyzed in class,  it was reacting to industry pressure by cutting costs and shortening timelines and prioritizing results rather than safety, integrity, and ethics that caused a major catastrophe. These tragedies are avoidable and it is the responsibility of engineering to prevent future tragedies from happening in the future.
 
-The world is in the hands of the engineers who design it. Those hands must prioritize the good of all humanity,
-
-
-![Photo of ASME Canons]({{ "/assets/images/ASME-Canons.jpg" | relative_url }})
+The world is in the hands of the engineers who design it. Those hands must prioritize the good of all humanity.
 
 
 <img src="{{ '/assets/images/ASME-Canons.jpg' | relative_url }}" alt="ASME Canons" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
