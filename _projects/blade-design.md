@@ -7,9 +7,7 @@ image: /assets/images/Blades.jpg
 ---
 
 
-This project focused on the design, fabrication, and experimental evaluation of small wind-turbine blades optimized for safe operation and maximum power extraction under constrained operating conditions. The blades were designed to operate at a fixed rotational speed of 1500 RPM under a mean free-stream velocity of 4.59 m/s, while satisfying geometric constraints. 
-
-![Photo of CAD]({{ "/assets/images/CADofBlades.jpg" | relative_url }})
+This project focused on the design, fabrication, and experimental evaluation of small-scale turbine blades optimized for safe operation and maximum power extraction. The blades were designed to operate at a fixed rotational speed of 1500 RPM under a mean free-stream velocity of 4.59 m/s, while satisfying geometric constraints. 
 
 <img src="{{ '/assets/images/CADofBlades.jpg' | relative_url }}" alt="CAD of turbine blades" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
@@ -19,14 +17,17 @@ Safety considerations guided all design choices. From Lab 5 and in class analysi
 
 We performed aerodynamic optimization calculations on the NACA 4412 airfoil at a Reynold’s number of approximately 50,000. The blade twist distribution was optimized to maintain an angle of attack of 8.5 degrees, which corresponds to the maximum lift-to-drag ratio for this airfoil. 
 
-![Photo of Blades] ({{ "/assets/images/old-radio.jpg" | relative_url }})
+<img src="{{ '/assets/images/BladesOnTurbine.jpg' | relative_url }}" alt="Blades on Turbine" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 Our target experimental wind tunnel speeds were 4.3 m/s, 5.5 m/s, and 6.1 m/s. For each wind speed, we first set the torque brake applied voltage to 0, then carefully ramped the wind tunnel fan frequency up to reach the target speed. We allowed approximately 30 seconds to allow flow to reach a steady state before taking an initial data point. We then applied the torque brake in small increments of 0.2 V, 0.3 V, or 0.5 V for each wind speed, respectively, which allowed us to gather approximately the same number of data points for each wind speed. After each adjustment to the torque brake, we again allowed approximately 30 seconds before taking data to allow the flow to steady.
 
+--
+
 Results form torque and power graphs at freestream of 5.5 m/s included below:
 
+<img src="{{ '/assets/images/Results5.5.jpg' | relative_url }}" alt="Results at 5.5m/s" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
-![Photo of old radio] ({{ "/assets/images/Results5.5.jpg" | relative_url }})
+--
 
 Through this project, we were able to get an idea of the real-life obstacles of wind turbine design that are not necessarily quantifiable by a well-known mathematical model or law presented in class. We successfully designed a safely-operating blade, gathered meaningful data, and reflected on our results while identifying shortcomings of our design and experimental process.
 

@@ -21,3 +21,5 @@ The world is in the hands of the engineers who design it. Those hands must prior
 ![Photo of ASME Canons]({{ "/assets/images/ASME-Canons.jpg" | relative_url }})
 
 
+<img src="{{ '/assets/images/ASME-Canons.jpg' | relative_url }}" alt="ASME Canons" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
