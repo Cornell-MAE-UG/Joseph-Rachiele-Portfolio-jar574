@@ -31,5 +31,8 @@ Results form torque and power graphs at freestream of 5.5 m/s included below:
 
 Through this project, we were able to get an idea of the real-life obstacles of wind turbine design that are not necessarily quantifiable by a well-known mathematical model or law presented in class. We successfully designed a safely-operating blade, gathered meaningful data, and reflected on our results while identifying shortcomings of our design and experimental process.
 
-[📄 View MAE 4272 Final Blade Design Report (PDF)]({{ site.baseurl }}/assets/pdf/MAE4272-BladeDesignReport.pdf)
+[📄 View MAE 4272 Final Blade Design Report (PDF)]({{ site.baseurl }}/assets/MAE4272-BladeDesignReport.pdf)
+
+[📄 View MAE 4272 Final Blade Design Report (PDF)]({{ "/assets/MAE4272-BladeDesignReport.pdf" | relative_url }})
+
 
