@@ -20,6 +20,9 @@ I am an undergraduate senior studying Mechanical Engineering at Cornell Universi
 
 
 
-Take a look at: <a href="{{ "projects/" | relative_url}}> my Projects </a> and <a href="{{ "/cv/ | relative_url}}> CV</a>
+Take a look at [my Projects]({{ "/projects/" | relative_url }}) and <a href="{{ "/cv/ | relative_url}}> CV</a>
 
-[My Projects]({{ "/projects/" | relative_url }})
+
+<a href="{{ "projects/" | relative_url}}> my Projects </a> and <a href="{{ "/cv/ | relative_url}}> CV</a>
+
+
