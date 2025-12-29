@@ -7,7 +7,7 @@ image: /assets/images/MAE4300Plane.jpg
 ---
 
 
-This year in my Mechanical Engineering class named MAE 4300: Engineers and Society, we learned how engineering ethics are crucial components of societal advancement. The innovations conducted by engineering  direct the future of humanity and it is important that engineers practice good ethical discipline. It is the responsibility of  each individual engineer to create a safe, ethical, and sustainable future on Earth. 
+In my Engineers and Society class, we learned how engineering ethics are crucial components of societal advancement. The innovations conducted by engineering  direct the future of humanity and it is important that engineers practice good ethical discipline. It is the responsibility of  each individual engineer to create a safe, ethical, and sustainable future on Earth. 
 
 For the semester, our class analyzed and investigated what led up to the catastrophic Boeing 737 Max crashes in the mid 2010s. We took on the role of different stakeholders and examined the incident and events leading up to the incident through the lens of these various stakeholders. Some of these stakeholders included: the public, Boeing Engineers, Boeing executives, airlines, pilots and more. When analyzing the situation we realized how engineering is complex and intertwined many actions and reactions in the real world. Engineers innovate products that must exist sustainably and ethically in the real world, not just within a lab.
 
