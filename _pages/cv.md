@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in mechanical topics. Eager to apply my knowledge in real-world applications and enter the work force.
+Aspiring engineering student with a strong foundation in aerospace, mechanics, and product development. Excited to explore real-world applications of my experience in the engoineering industry.
 
 ---
 
@@ -32,7 +32,7 @@ Aspiring engineering student with a strong foundation in mechanical topics. Eage
 #### Skills
 - **Software:** Autodesk Fusion 360--CAD & Revit, SolidWorks, ANSYS, Excel, Bluebeam, Labview 
 - **Programming:** Python, MATLAB, HTML  
-- **Tools:** 3D Printing, Laser Cutting, Millwork  
+- **Tools:** 3D Printing, Laser Cutting, Lathe and Mill
 
 ---
 
@@ -65,9 +65,8 @@ Aspiring engineering student with a strong foundation in mechanical topics. Eage
 ---
 
 #### Achievements & Certifications
+- Whiting-Turner Intern Challange Champion, Whiting-Turner Contracting Company, 2025
 - Eagle Scout, Boy Scouts of America, 2021
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
