@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+To view my experince holistically, view: [my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [jar574@cornell.edu](mailto:jar574@cornell.edu) | | | **Phone:** +1 347-373-0650
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in aerospace, mechanics, and product development. Excited to explore real-world applications of my experience in the engoineering industry.
+Aspiring engineering student with a strong foundation in project management and aerospace. Excited to explore real-world applications of my experience in the engoineering industry.
 
 ---
 
@@ -65,7 +65,7 @@ Aspiring engineering student with a strong foundation in aerospace, mechanics, a
 ---
 
 #### Achievements & Certifications
-- Whiting-Turner Intern Challange Champion, Whiting-Turner Contracting Company, 2025
+- Whiting-Turner Intern Challange Champion, 2025
 - Eagle Scout, Boy Scouts of America, 2021
 
 ---
