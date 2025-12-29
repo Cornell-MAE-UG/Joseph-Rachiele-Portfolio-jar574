@@ -10,7 +10,7 @@ title: Joseph Rachiele
 <img 
   src="{{ 'assets/images/profile-pic.jpg' | relative_url }}" 
   alt="Profile Picture"
-  style="width: 150px; border-radius: 50%;"
+  style="width: 200px; border-radius: 50%;"
 />
 
  
