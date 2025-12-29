@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-To view my experiences holistically, view [my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+For a holistic view at my expereinces, open [my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [jar574@cornell.edu](mailto:jar574@cornell.edu) | | | **Phone:** +1 347-373-0650
@@ -13,7 +13,7 @@ To view my experiences holistically, view [my Resume]({{ "/assets/CV.pdf" | rela
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in project management and aerospace. Excited to explore real-world applications of my experience in the engoineering industry.
+Aspiring engineering student with a strong foundation in project management and aerospace. Excited to explore real-world applications of my experience in the engineering industry.
 
 ---
 
@@ -30,7 +30,7 @@ Aspiring engineering student with a strong foundation in project management and 
   ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360--CAD & Revit, SolidWorks, ANSYS, Excel, Bluebeam, Labview 
+- **Software:** Autodesk Fusion 360--CAD & Revit, SolidWorks, ANSYS, Excel, Bluebeam, LabView 
 - **Programming:** Python, MATLAB, HTML  
 - **Tools:** 3D Printing, Laser Cutting, Lathe and Mill
 
@@ -39,7 +39,7 @@ Aspiring engineering student with a strong foundation in project management and 
 #### Projects
 - **ASML Cube Craze Competition at Cornell**:  
   *Design a robot to compete in classwide competition*  
-  - Placed 5th out of 60 groups  
+  - Placed 5th out of 65 groups  
   - Key Achievement 2  
 
 - **[Project Title]**:  
@@ -66,16 +66,19 @@ Aspiring engineering student with a strong foundation in project management and 
 
 #### Achievements & Certifications
 - Whiting-Turner Intern Challange Champion, 2025
+- Heps Conference Scorer, Ivy League Track and Field, 2024 & 2025
 - Eagle Scout, Boy Scouts of America, 2021
 
 ---
 
 #### Extracurricular Activities
-- **Cornell Varsity Track & Field**  
-  - *Team Captain, Walk-On Javelin Thrower, Conferences Scorer*
+- **Cornell Varsity Track & Field** -*Team Captain, Walk-On Javelin Thrower, Conference Scorer*
+  •	Division I athlete for Cornell Track and Field; Scorer at Ivy League Heps Championship; Personal best mark of 58.37m
+  •	Lead teammates in daily throwing, weightlifting, mobility, and sprinting training; Assist coach with drills and equipment 
 
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **Boy Scouts of America** -*Assistant Scoutmaster*
+  • Volunteer leader for Troop 182 in the Bronx, NY	
+  • Teach scout skills, demonstrate leadership, and advise fellow scoutmasters
 
 ---
 

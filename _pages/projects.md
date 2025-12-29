@@ -4,6 +4,8 @@ title: Joseph Rachiele - Portfolio
 permalink: /projects/
 ---
 
+## My Projects
+
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
