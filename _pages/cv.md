@@ -73,12 +73,12 @@ Aspiring engineering student with a strong foundation in project management and 
 
 #### Extracurricular Activities
 - **Cornell Varsity Track & Field** -*Team Captain, Walk-On Javelin Thrower, Conference Scorer*
-  •	Division I athlete for Cornell Track and Field; Scorer at Ivy League Heps Championship; Personal best mark of 58.37m
-  •	Lead teammates in daily throwing, weightlifting, mobility, and sprinting training; Assist coach with drills and equipment 
+  - Division I athlete for Cornell Track and Field; Scorer at Ivy League Heps Championship; Personal best mark of 58.37m
+  - Lead teammates in daily throwing, weightlifting, mobility, and sprinting training; Assist coach with drills and equipment 
 
 - **Boy Scouts of America** -*Assistant Scoutmaster*
-  • Volunteer leader for Troop 182 in the Bronx, NY	
-  • Teach scout skills, demonstrate leadership, and advise fellow scoutmasters
+  - Volunteer leader for Troop 182 in the Bronx, NY	
+  - Teach scout skills, demonstrate leadership, and advise fellow scoutmasters
 
 ---
 
