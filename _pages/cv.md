@@ -37,10 +37,11 @@ Aspiring engineering student with a strong foundation in project management and 
 ---
 
 #### Projects
-- **ASML Cube Craze Competition at Cornell**:  
-  *Design a robot to compete in classwide competition*  
-  - Placed 5th out of 65 groups  
-  - Key Achievement 2  
+- **Mechatronics Robot Competition**:  
+  *ASML-Cornell Cube Craze Competition*  
+  - Designed and modeled robot via SolidWorks. Constructed robot within competition constraints
+  - Programmed Arduino with QTI, color, and proximity sensors via MATLAB to discern block proximity and desried direction of motion
+  - Placed 5th out of 65 groups in Mechatronics classwide competition
 
 - **[Project Title]**:  
   *[Short Description]*  

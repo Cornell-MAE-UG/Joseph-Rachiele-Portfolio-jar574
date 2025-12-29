@@ -1,9 +1,12 @@
 ---
 layout: project
-title: ASML Robot Competition
+title: Mechatronics Robot
 description: Mechatronics Robot
-technologies: [MATLAB]
+technologies: [MATLAB, SolidWorks, Sensors]
 image: /assets/images/mech-robot.jpg
 ---
 
 TO BE ADDED
+
+
+
