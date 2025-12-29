@@ -21,6 +21,5 @@ I am an undergraduate senior studying Mechanical Engineering at Cornell Universi
 My passion for engineering stems from desire to have a tangible, postivie impact on the world. Having a good background in math and science, engineering appeared as the most logical path when applying to college. Thus far at Cornell, mechanical engineering has yet to dissapoint. My undergraduate classes have been focused on aerospace and spaceflight engineering. My undergraduate internships have also given me a good background in project management, contracting, construction, and research. 
 
 
-Take a look at [my Projects]({{ "/projects/" | relative_url }}) and <a href="{{ "/cv/ | relative_url}}> CV</a>
-
+Take a look at [my Projects]({{ "/projects/" | relative_url }}) and [my CV]({{ "/cv/" | relative_url }})
 
