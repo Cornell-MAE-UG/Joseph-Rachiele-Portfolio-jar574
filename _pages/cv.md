@@ -79,6 +79,7 @@ Aspiring engineering student with a strong foundation in project management and 
  Summer of 2021 & 2022
  - Leader of 15 person customer service team at beach and pool
  - Responsible for interacting with members as they rent equipment, request seating, host events, and other maintenance services.
+ 
 ---
 
 #### Achievements & Certifications
