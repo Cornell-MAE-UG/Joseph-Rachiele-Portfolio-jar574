@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Insituform Pipe
+title: Pipe Lining Research
 description: Pipe Bending Research Project
 technologies: [Hydraulic Actuators, MATLAB, LabView, Excel]
 image: /assets/images/ISES04.jpg
