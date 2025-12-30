@@ -52,7 +52,7 @@ Aspiring engineering student with a strong foundation in project management and 
 
 #### Work Experience
 - **The Whiting-Turner Contracting Company - Project Management Intern**  
-  May, 2025 - August, 2025  
+  May - August 2025  
   - Manage subcontractor packages for healthcare and commercial construction projects ranging from $10M - $500M 
   - Create bid forms covering scopes of work as outlined by design drawings; communicate/descope with subcontractors 
   - Assist superintendents on job sites to ensure safety, quality, proper scheduling, and cost efficiency on all projects
@@ -73,11 +73,11 @@ Aspiring engineering student with a strong foundation in project management and 
 ---
 
 #### Extracurricular Activities
-- **Cornell Varsity Track & Field** -*Team Captain, Walk-On Javelin Thrower, Conference Scorer*
+- **Cornell Varsity Track & Field** - *Team Captain, Walk-On Javelin Thrower, Conference Scorer*
   - Division I athlete for Cornell Track and Field; Scorer at Ivy League Heps Championship; Personal best mark of 58.37m
   - Lead teammates in daily throwing, weightlifting, mobility, and sprinting training; Assist coach with drills and equipment 
 
-- **Boy Scouts of America** -*Assistant Scoutmaster*
+- **Boy Scouts of America** - *Assistant Scoutmaster*
   - Volunteer leader for Troop 182 in the Bronx, NY	
   - Teach scout skills, demonstrate leadership, and advise fellow scoutmasters
 
