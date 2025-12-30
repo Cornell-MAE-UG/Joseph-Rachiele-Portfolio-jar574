@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-For a holistic view at my expereinces, open [my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+For a consolidated and holistic view at my experience, open [my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [jar574@cornell.edu](mailto:jar574@cornell.edu) | | | **Phone:** +1 347-373-0650
@@ -95,12 +95,21 @@ Aspiring engineering student with a strong foundation in project management and 
   - Voted team captain by peers
   - Scorer at Ivy League Heps Championship
   - Personal best mark of 58.37m
-  - Lead teammates in daily throwing, weightlifting, mobility, and sprinting training
+  - Lead teammates in daily throwing, weightlifting, mobility, and sprinting
   - Assist coach with drills and equipment 
 
 - **MAE Teaching Assistant** - *For MAE2250: Mechanical Synthesis*
   - Coordinate and directs lab sections
   - Grade homeworks and projects   
+
+- **Chi Psi Fraternity** - *Lodge Manager and Chief Steward*
+  - Direct house and property management for on-campus housing with over 30 residents and 60 active members
+  - Coordinate maintenance and improvement tasks while communicating with contractors, landscapers, and alumni 
+  - Supervise and assist fellow stewards with kitchen duties while acting as liaison between chef and members
+
+- **Cayuga Capital** - *Industrials Team Analyst*
+  - Contribute towards student run hedge fund, with a focus on the industrials and infrastructure sectors
+  - Review of introductory accounting, finance, private equity, asset management, and business management
 
 - **Boy Scouts of America** - *Assistant Scoutmaster*
   - Volunteer leader for Troop 182 in the Bronx, NY	
