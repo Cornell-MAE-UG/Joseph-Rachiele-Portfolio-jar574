@@ -11,7 +11,7 @@ In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cor
 
 
 
-**Introduction & Responsibilities**
+#### Introduction & Responsibilities
 
 <img src="{{ '/assets/images/Traffic-Cycles-Final-Pipe-Setup.jpg' | relative_url }}" alt="Final Pipe Setup" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
@@ -26,12 +26,13 @@ Pictured above is labelled layout of the pipe. We can see the pipe liner petrudi
 
 The loading cell, balncing setup, actuator, and insutrmentaion wiring can also be seen.
 
-**Results**
 
-Hydraulics and Pipe Positioning Controls Pictured Below
+
+**Hydraulics and Pipe Positioning Controls Pictured Below**
 <img src="{{ '/assets/images/Traffic-Cycles-Actuator-Monitor.jpg' | relative_url }}" alt="LabView Monitor Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 
+##### Results
 
 The most memorable day of this project was the day the pipe failed. I had spent weeks refining and iterating our traffic loading cycles, but that day we were supposed to conduct parallel excavation tests to examine the pipe liner’s behavior when subjected to small amounts of bending at the center of the pipe. Before starting the test, the other research assistants and I ensured the pipe liner was intact, checked that the instruments were functioning properly, and walked through the thorough procedure that I crafted. We began the test and our initial data seemed reasonable. Thus, we commenced increasing the bending to the prescribed amount. All of a sudden, a loud cracking noise reverberated throughout the lab and water could be heard trickling out from the center of the pipe. I immediately stopped the test and neutralized the force being applied to the pipe. As I was inspecting the water under the pipe to find the crack, the whole pipe liner ripped and hundreds of gallons of water started flooding out. I ran to get the lab manager and tell him what happened, nervous I had done something wrong to break the project we had worked on for weeks. He was very understanding as I explained what had happened and we proceeded to conduct a closer investigation. 
 
@@ -39,12 +40,11 @@ The next day I walked into the lab thinking I had spoiled a summer’s worth of 
 
 INSERT PDF of break report
 
-
-**Other Responibilities**
+###### Other Responibilities
 
 Testing the pipe required creating a LabView to monitor and gather results. This was my first exposure to LabView.
 
-LabView Front End Pictured Below
+**LabView Front End Pictured Below**
 
 <img src="{{ '/assets/images/Traffic-Cycles-DAQ.jpg' | relative_url }}" alt="DAQ Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
@@ -57,7 +57,7 @@ We also collaborated with other lab groups. Becuase I was working direclty with 
 
 <img src="{{ '/assets/images/3DPrinter.jpg' | relative_url }}" alt="3DPrinter" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
-**What I Learned**
+###### What I Learned
 
 This experience involved civil, mechanical,and electrical engineering all of which I have been epxosed to in the classroom and was familiar with. This expereicne defienlty helped me reveist fundamentals while also nbulding off of what I have learned in school. 
 
