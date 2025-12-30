@@ -68,5 +68,3 @@ INSERT PDF of lab report
 
 <img src="{{ '/assets/images/Lab.jpg' | relative_url }}" alt="Lab" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
-
-
