@@ -6,5 +6,37 @@ technologies: [Hydraulic Actuators, MATLAB, LabView, Excel]
 image: /assets/images/ISES04.jpg
 ---
 
-TO BE ADDED
+In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cornell University. In the lab, I conducted reseadrch with a team on a the longevity on pipe liners. Here is a summary of what I learned and the work I did:
+
+**Introduction & Responsibilities**
+Our project consisted of conducting over 500,0000 traffic loading and thermal test cycles on a steel pipe with the pipe encapsulation technology installed. My responsibilities included the intsallation of the pipe, impemntation of the testing instruments, formulating the 27 step procedure, and overseeing the actual testing of the pipe. This project required daily maintenance due to instruments breaking, offsetting of the zeros, and constant variables. 
+
+Pic of procedures
+
+**Results**
+The most memorable day of this project was the day the pipe failed. I had spent weeks refining and iterating our traffic loading cycles, but that day we were supposed to conduct parallel excavation tests to examine the pipe liner’s behavior when subjected to small amounts of bending at the center of the pipe. Before starting the test, the other research assistants and I ensured the pipe liner was intact, checked that the instruments were functioning properly, and walked through the thorough procedure that I crafted. We began the test and our initial data seemed reasonable. Thus, we commenced increasing the bending to the prescribed amount. All of a sudden, a loud cracking noise reverberated throughout the lab and water could be heard trickling out from the center of the pipe. I immediately stopped the test and neutralized the force being applied to the pipe. As I was inspecting the water under the pipe to find the crack, the whole pipe liner ripped and hundreds of gallons of water started flooding out. I ran to get Jim and tell him what happened, nervous I had done something wrong to break the project we had worked on for weeks. He was very understanding as I explained what had happened and we proceeded to conduct a closer investigation. 
+
+pic of pipe
+
+The next day I walked into the lab thinking I had spoiled a summer’s worth of research. To my surprise, Jim told me he had some news from the lab at the University of Colorado Boulder where they were conducting tests on the identical pipe lining technology. He informed me that when they conducted the parallel excavation test, their pipe also failed. This realization assured me that it was not my procedure or execution, but rather a flaw in the pipe liner being too stiff and not engineered well enough for implementation in the real world yet.
+
+
+**Other Responibilities**
+To move the 10 foot long and 12 inch nominal diameter pipe as well as other heavy object within the lab, we used a crane. This crane is installed tot he roof of the lab and required training in weight distrubution, strap securing, and balance.
+
+To keep the lab clean and safe we spent time every week to clean the area, organize tools, and conduct safety tests on lab equipment.
+
+We also collborated with other lab groups. Becuase I was working direclty with the lab manager on my project, I was also minorly involved with other projects. These projects included 3D printing concrete and subsequently strength testing the 3D printed specimens with actuators. This expereince gave me exporse to concrete making, concrete 3D printing, and strength testing. 
+
+pic of 3d printer
+
+**What I Learned**
+This experience involved civil, mechanical,and electrical engineering all of which I have been epxosed to in the classroom and was familiar with. This expereicne defienlty helped me reveist fundamentals while also nbulding off of what I have learned in school. 
+
+More significantly, I was exposed real word aspects of engineering. These include lab colloboration through being temporarily assigned to other projects and having to share space with other lab groups. Having repsonibilites and deadlines with the project. Our work had actyual real world impact beucase it would be implemnted and sold if it work. But most importnaly, it exposed me to failure through the pipe breaking under load. It's difficult to predict what will happen in research and even in life. It is how well we learn to adapt and overcome these adjustments that prepare us for success. In terms of this research project, the liner breaking was out of my control and was the appropriate result, regardless of how surprising. The great part about research is that it is meant for discovering these flaws and innovating better systems.
+
+
+INSERT PDF of lab report
+
+INSERT PDF of break report
 
