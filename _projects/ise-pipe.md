@@ -9,6 +9,8 @@ image: /assets/images/ISES04.jpg
 In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cornell University. In the lab, I conducted research with a team on the longevity and durability on pipe liners. Here is a summary of what I learned and the work I did:
 
 
+
+
 **Introduction & Responsibilities**
 
 <img src="{{ '/assets/images/Traffic-Cycles-Final-Pipe-Setup.jpg' | relative_url }}" alt="Final Pipe Setup" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
@@ -25,6 +27,7 @@ Pictured above is labelled layout of the pipe. We can see the pipe liner petrudi
 The loading cell, balncing setup, actuator, and insutrmentaion wiring can also be seen.
 
 **Results**
+
 Hydraulics and Pipe Positioning Controls Pictured Below
 <img src="{{ '/assets/images/Traffic-Cycles-Actuator-Monitor.jpg' | relative_url }}" alt="LabView Monitor Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
@@ -38,10 +41,12 @@ INSERT PDF of break report
 
 
 **Other Responibilities**
+
 Testing the pipe required creating a LabView to monitor and gather results. This was my first exposure to LabView.
 
+LabView Front End Pictured Below
+
 <img src="{{ '/assets/images/Traffic-Cycles-DAQ.jpg' | relative_url }}" alt="DAQ Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
-LabView Front End
 
 
 To move the 10 foot long and 12 inch nominal diameter pipe as well as other heavy object within the lab, we used a crane. This crane is installed tot he roof of the lab and required training in weight distrubution, strap securing, and balance.
