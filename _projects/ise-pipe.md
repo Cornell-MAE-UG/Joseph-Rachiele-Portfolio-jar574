@@ -12,9 +12,17 @@ In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cor
 
 Our project consisted of conducting over 500,0000 traffic loading and thermal test cycles on a steel pipe with the pipe encapsulation technology installed. My responsibilities included the intsallation of the pipe, impemntation of the testing instruments, formulating the 27 step procedure, and overseeing the actual testing of the pipe. This project required daily maintenance due to instruments breaking, offsetting of the zeros, and constant variables. 
 
-pic of LVDT
+<img src="{{ '/assets/images/PipeCenter.jpg' | relative_url }}" alt="Center of Pipe" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
-Pic of procedures
+<img src="{{ '/assets/images/Procedure.jpg' | relative_url }}" alt="Procedure" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
+
+<img src="{{ '/assets/images/Traffic-Cycles-Actuator-Monitor.jpg' | relative_url }}" alt="LabView Monitor Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
+<img src="{{ '/assets/images/Traffic-Cycles-DAQ.jpg' | relative_url }}" alt="DAQ Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
+
+<img src="{{ '/assets/images/Traffic-Cyclces-Final-Pipe-Setup.jpg' | relative_url }}" alt="Final Pipe Setup" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 **Results**
 
