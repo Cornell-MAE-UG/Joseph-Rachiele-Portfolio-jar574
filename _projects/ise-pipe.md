@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Pipe Lining Research
+title: Pipe Liner Research
 description: Pipe Bending Research Project
 technologies: [Hydraulic Actuators, MATLAB, LabView, Excel]
 image: /assets/images/ISES04.jpg
 ---
 
-In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cornell University. In the lab, I conducted research with a team to analyze the longevity and durability on a specific pipe liner. This project was very hands on and a rewarding experience. Here is a summary of what I learned and the work I did:
+In the summer of 2024, I spent the summer working in the Bovay Laboratory of Civil Engineering at Cornell University. In the lab, I conducted research with a team to analyze the longevity, flexibility, and practiciality of implementing a specific pipe encapsualtion technology into existing public water mains. This project was very hands on and a rewarding experience. Here is a summary of what I learned and the work I did:
 
 
 #### Introduction & Responsibilities
