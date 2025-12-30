@@ -53,9 +53,9 @@ To move the 10 foot long and 12 inch nominal diameter pipe as well as other heav
 
 To keep the lab clean and safe we spent time every week to clean the area, organize tools, and conduct safety tests on lab equipment.
 
-We also collborated with other lab groups. Becuase I was working direclty with the lab manager on my project, I was also minorly involved with other projects. These projects included 3D printing concrete and subsequently strength testing the 3D printed specimens with actuators. This expereince gave me exporse to cement mixing, cementitious 3D printing, and concrete strength testing. 
+We also collaborated with other lab groups. Becuase I was working direclty with the lab manager on my project, I was also minorly involved with other projects. These projects included 3D printing concrete and subsequently strength testing the 3D printed specimens with actuators. This expereince gave me exporse to cement mixing, cementitious 3D printing, and concrete strength testing. 
 
-pic of 3d printer
+<img src="{{ '/assets/images/3DPrinter.jpg' | relative_url }}" alt="3DPrinter" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 **What I Learned**
 
