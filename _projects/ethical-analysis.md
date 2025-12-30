@@ -1,12 +1,11 @@
 ---
-
+layout: project
 title: MAE4300 Final Essay
 description: Ethical Analysis Essay
 technologies: [Excel]
-
----
-layout: project
 image: /assets/images/MAE4300Plane.jpg
+---
+
 
 
 In my Engineers and Society class, we learned how engineering ethics are crucial components of societal advancement. The innovations conducted by engineering  direct the future of humanity and it is important that engineers practice good ethical discipline. It is the responsibility of  each individual engineer to create a safe, ethical, and sustainable future on Earth. 

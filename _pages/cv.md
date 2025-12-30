@@ -37,16 +37,22 @@ Aspiring engineering student with a strong foundation in project management and 
 ---
 
 #### Projects
+
+- **Automotive Engineering Senior Design Project**:  
+  *To Be Added in Spring 2026*  
+
+
 - **Mechatronics Robot Competition**:  
   *ASML-Cornell Cube Craze Competition*  
   - Designed and modeled robot via SolidWorks. Constructed robot within competition constraints
   - Programmed Arduino with QTI, color, and proximity sensors via MATLAB to discern block proximity and desried direction of motion
   - Placed 5th out of 65 groups in Mechatronics classwide competition
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Bovay Laboratory at Cornell Univesity - Research Assistant**  
+  *Pipe Lining Technplogy Research*
+  - Manage research for traffic loading and thermal testing cycles on Insituform felt tube underground pipe replacements
+  - Operate instruments e.g. strain gauges & string pots and equipment e.g. 3D concrete printers, cranes, & hydraulic actuator
+  - Design procedures, models, reports, and graphs via data acquisition units, LabView and MATLAB
 
 ---
 
@@ -57,12 +63,22 @@ Aspiring engineering student with a strong foundation in project management and 
   - Create bid forms covering scopes of work as outlined by design drawings; communicate/descope with subcontractors 
   - Assist superintendents on job sites to ensure safety, quality, proper scheduling, and cost efficiency on all projects
 
-- **Bovay Laboratory at Cornell Univesity - Research Assistant**  
-  May - September 2024  
-  - Manage research for traffic loading and thermal testing cycles on Insituform felt tube underground pipe replacements
-  - Operate instruments e.g. strain gauges & string pots and equipment e.g. 3D concrete printers, cranes, & hydraulic actuator
-  - Design procedures, models, reports, and graphs via data acquisition units, LabView and MATLAB
+- **Verde Electric Corporation - Construction Management Summer Analyst**  
+  June - August 2023
+ - Conduct site plan developments for 30+ mile interstate route 9W renovation by hand and with Bluebeam software
+ - Coordinate project takeoffs via On-Screen Takeoff while reviewing and updating item quantities for specific job locations
+ - Summarize daily reports from foremen and distribute to project managers, update drawings to site specifications
 
+- **Advanced Solution of NY - Product & Systems Management Associate**
+ 2016 - Present
+ - Manage self-created digital database that organizes mechanical parts in an archive with over 4,500 entries
+ - Coordinate arrival and shipment of appliance parts as well as distribution to traveling technicians
+ - Diagnose printers and projectors for customers and conduct necessary repairs with proper part replacement
+
+- **Shenorock Shore Club - Head Beach Attendant**
+ Summer of 2021 & 2022
+ - Leader of 15 person customer service team at beach and pool
+ - Responsible for interacting with members as they rent equipment, request seating, host events, and other maintenance services.
 ---
 
 #### Achievements & Certifications
@@ -76,6 +92,10 @@ Aspiring engineering student with a strong foundation in project management and 
 - **Cornell Varsity Track & Field** - *Team Captain, Walk-On Javelin Thrower, Conference Scorer*
   - Division I athlete for Cornell Track and Field; Scorer at Ivy League Heps Championship; Personal best mark of 58.37m
   - Lead teammates in daily throwing, weightlifting, mobility, and sprinting training; Assist coach with drills and equipment 
+
+- **MAE Teaching Assistant** - *For MAE2250: Mechanical Synthesis*
+  - Coordinate and directs lab sections
+  - Grade homeworks and projects   
 
 - **Boy Scouts of America** - *Assistant Scoutmaster*
   - Volunteer leader for Troop 182 in the Bronx, NY	
