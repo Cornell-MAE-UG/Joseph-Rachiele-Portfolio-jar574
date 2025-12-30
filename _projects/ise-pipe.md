@@ -6,7 +6,8 @@ technologies: [Hydraulic Actuators, MATLAB, LabView, Excel]
 image: /assets/images/ISES04.jpg
 ---
 
-In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cornell University. In the lab, I conducted reseadrch with a team on a the longevity on pipe liners. Here is a summary of what I learned and the work I did:
+In the summer of 2024, I spent the summer working in the Bovay Laboratory at Cornell University. In the lab, I conducted reseadrch with a team on the longevity and durability on pipe liners. Here is a summary of what I learned and the work I did:
+
 
 **Introduction & Responsibilities**
 
@@ -17,20 +18,19 @@ Our project consisted of conducting over 500,0000 traffic loading and thermal te
 <img src="{{ '/assets/images/Procedure.jpg' | relative_url }}" alt="Procedure" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 
+<img src="{{ '/assets/images/Traffic-Cycles-Final-Pipe-Setup.jpg' | relative_url }}" alt="Final Pipe Setup" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
+**Results**
+
 <img src="{{ '/assets/images/Traffic-Cycles-Actuator-Monitor.jpg' | relative_url }}" alt="LabView Monitor Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
 <img src="{{ '/assets/images/Traffic-Cycles-DAQ.jpg' | relative_url }}" alt="DAQ Screen" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 
-
-<img src="{{ '/assets/images/Traffic-Cyclces-Final-Pipe-Setup.jpg' | relative_url }}" alt="Final Pipe Setup" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
-
-**Results**
-
 The most memorable day of this project was the day the pipe failed. I had spent weeks refining and iterating our traffic loading cycles, but that day we were supposed to conduct parallel excavation tests to examine the pipe liner’s behavior when subjected to small amounts of bending at the center of the pipe. Before starting the test, the other research assistants and I ensured the pipe liner was intact, checked that the instruments were functioning properly, and walked through the thorough procedure that I crafted. We began the test and our initial data seemed reasonable. Thus, we commenced increasing the bending to the prescribed amount. All of a sudden, a loud cracking noise reverberated throughout the lab and water could be heard trickling out from the center of the pipe. I immediately stopped the test and neutralized the force being applied to the pipe. As I was inspecting the water under the pipe to find the crack, the whole pipe liner ripped and hundreds of gallons of water started flooding out. I ran to get Jim and tell him what happened, nervous I had done something wrong to break the project we had worked on for weeks. He was very understanding as I explained what had happened and we proceeded to conduct a closer investigation. 
 
-pic of pipe
-
 The next day I walked into the lab thinking I had spoiled a summer’s worth of research. To my surprise, Jim told me he had some news from the lab at the University of Colorado Boulder where they were conducting tests on the identical pipe lining technology. He informed me that when they conducted the parallel excavation test, their pipe also failed. This realization assured me that it was not my procedure or execution, but rather a flaw in the pipe liner being too stiff and not engineered well enough for implementation in the real world yet.
+
+INSERT PDF of break report
 
 
 **Other Responibilities**
@@ -52,5 +52,7 @@ More significantly, I was exposed real word aspects of engineering. These includ
 
 INSERT PDF of lab report
 
-INSERT PDF of break report
+<img src="{{ '/assets/images/Lab.jpg' | relative_url }}" alt="Lab" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
+
+
 
