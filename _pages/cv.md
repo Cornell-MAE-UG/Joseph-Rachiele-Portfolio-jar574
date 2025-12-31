@@ -83,8 +83,9 @@ Aspiring engineering student with a strong foundation in project management and 
 ---
 
 #### Achievements & Certifications
-- Whiting-Turner Intern Challange Champion, 2025
+- Whiting-Turner Intern Challenge Champion, 2025
 - Heps Conference Scorer, Ivy League Track and Field, 2024 & 2025
+- National Commended Scholar (for outsanding SAT score), 2022
 - Eagle Scout, Boy Scouts of America, 2021
 
 ---
