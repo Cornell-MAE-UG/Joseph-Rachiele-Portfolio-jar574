@@ -23,7 +23,7 @@ Our target experimental wind tunnel speeds were 4.3 m/s, 5.5 m/s, and 6.1 m/s. F
 
 --
 
-Results form torque and power graphs at freestream of 5.5 m/s included below:
+**Results form torque and power graphs at freestream of 5.5 m/s included below:**
 
 <img src="{{ '/assets/images/Results5.5.jpg' | relative_url }}" alt="Results at 5.5m/s" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
 

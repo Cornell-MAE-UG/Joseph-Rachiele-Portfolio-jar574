@@ -3,7 +3,7 @@ layout: project
 title: Automotive Design
 description: Automotive Engineering Senior Design Project
 technologies: [TBD]
-image: /assets/images/automotive.jpg
+image: /assets/images/Automotive.jpg
 ---
 
 TO BE ADDED
