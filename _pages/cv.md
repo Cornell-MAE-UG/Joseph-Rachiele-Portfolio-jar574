@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-For a consolidated and holistic view at my experience, open [my Resume]({{ "/assets/CV.pdf" | relative_url }}) as a PDF.
+For a consolidated and holistic view at my experience, open [my Resume]({{ "/assets/Resume.pdf" | relative_url }}) as a PDF.
 
 
 **Email:** [jar574@cornell.edu](mailto:jar574@cornell.edu) | | | **Phone:** +1 347-373-0650
