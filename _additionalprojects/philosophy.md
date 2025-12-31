@@ -15,7 +15,7 @@ TLDR: Plato and I agree that the virtuous life ought to be lived for the sake of
 Attached below is my final and complete thesis paper if you care to read more.
 
 
-[📄Read my Final Thesis Paper on Plato on Pleasure (PDF)]({{ "/assets/PlatoFinalDraft.pdf" | relative_url }})
+[📄Read my Complete Thesis Paper about Plato on Pleasure (PDF)]({{ "/assets/PlatoFinalDraft.pdf" | relative_url }})
 
 
 <img src="{{ '/assets/images/Plato.jpg' | relative_url }}" alt="Plato" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;">
