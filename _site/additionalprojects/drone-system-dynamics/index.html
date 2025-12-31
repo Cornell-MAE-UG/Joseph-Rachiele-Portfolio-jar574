@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drone System Dynamics</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="/Joseph-Rachiele-Portfolio-jar574/assets/css/main.css">
+</head>
+
+<body>
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark text-white";>
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/Joseph-Rachiele-Portfolio-jar574/">Joseph Rachiele - Portfolio</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"> 
+          <span class="navbar-toggler-icon"></span>
+        </button>  
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/projects/">Projects</a>
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/cv/">CV</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
+  
+  <main class="container">
+    <h1>Drone System Dynamics</h1>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/drone.jpg" alt="" class="project-image" /></p>
+
+<p>For the final groupwork assignment in my System Dynamics class (MAE 3260), we were given the option to analyze the dynamics of any system. My group decided on a drone. We dissected the drone in order to analyze the dynamics and controls of the system. The following is short summary of our findings.</p>
+
+<p>Our drone is battery powered with four rotating blades. The battery also powers the LED light in the center of the drone. To start the drone, press the power button which activates the LED and indicates that the drone is on. To activate the propellers and get the drone to fly, the drone must be tossed into the air. The drone’s sensor will detect its downward motion and the propellers will rapidly accelerate to propel the drone up and maintain itself in the air.</p>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/DroneElectric.jpg" alt="Photo of Drone Electric" class="inline-image-l" /></p>
+
+<p>Once in the air, the drone will then respond to motion and objects detected by its sensors. There is a sensor that will detect any objects below it and will send more power to the propellers causing them to accelerate and generate a lift force to propel the drone higher. The instructed way to fly the drone is by moving your hand towards the drone from below it, which will accelerate the propellers and cause the drone to lift.</p>
+
+<p>The lateral and forward-backwaerd motion of the drone is dependent upon an uneven rotation of the blades which is dictated by a feedback system dynamic. When your hand goes under the drone and also moves forward the back propellers will accelerate more than the front propellers. This feedback will push the drone forward. The same and opposite can be done to push the drone backwards. The drone will also move laterally away from objects or your hand. The drone will also react after hitting objects, thus there is a protective plastic shell to shield the propellers from its semi-frequent crashes (shown in image 3).</p>
+
+<p><a href="/Joseph-Rachiele-Portfolio-jar574/assets/MAE3260_FinalGroupwork_Report.pdf">📄 View MAE 3260 Final Groupwork Report (PDF)</a></p>
+
+
+<p><strong>Technologies Used</strong>: MATLAB</p>
+
+<a href=/Joseph-Rachiele-Portfolio-jar574/projects/ class="back-arrow">
+    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+</a>
+
+  </main>
+
+  <footer class="footer navbar-dark text-white text-center";>
+    <div class="container">
+      &copy; 2024 Joseph Rachiele. All rights not reserved.
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MAE4272 Blade Design</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="/Joseph-Rachiele-Portfolio-jar574/assets/css/main.css">
+</head>
+
+<body>
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark text-white";>
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/Joseph-Rachiele-Portfolio-jar574/">Joseph Rachiele - Portfolio</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"> 
+          <span class="navbar-toggler-icon"></span>
+        </button>  
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/projects/">Projects</a>
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link " href="/Joseph-Rachiele-Portfolio-jar574/cv/">CV</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
+  
+  <main class="container">
+    <h1>MAE4272 Blade Design</h1>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/Blades.jpg" alt="" class="project-image" /></p>
+
+<p>This project focused on the design, fabrication, and experimental evaluation of small-scale turbine blades optimized for safe operation and maximum power extraction. The blades were designed to operate at a fixed rotational speed of 1500 RPM under a mean free-stream velocity of 4.59 m/s, while satisfying geometric constraints.</p>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/CADofBlades.jpg" alt="CAD of turbine blades" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;" /></p>
+
+<p>Safety considerations guided all design choices. From Lab 5 and in class analysis, the dominant failure modes were identified to be flapwise bending fracture and uncontrolled overspeeding due to torque brake failure. A blade length of 4 inches was selected to maintain acceptable factors of safety for both failure modes. At the target rate of 1500RPM and upper-bound free-stream velocity of 7.74 m/s, our length selection maintained a factor of safety of 1.24 with respect to the torque brake limit and 10 with respect to flap wise bending. While our conservative design ensured structural integrity, it severely diminished power outputs.</p>
+
+<p>We performed aerodynamic optimization calculations on the NACA 4412 airfoil at a Reynold’s number of approximately 50,000. The blade twist distribution was optimized to maintain an angle of attack of 8.5 degrees, which corresponds to the maximum lift-to-drag ratio for this airfoil.</p>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/BladesOnTurbine.jpg" alt="Blades on Turbine" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;" /></p>
+
+<p>Our target experimental wind tunnel speeds were 4.3 m/s, 5.5 m/s, and 6.1 m/s. For each wind speed, we first set the torque brake applied voltage to 0, then carefully ramped the wind tunnel fan frequency up to reach the target speed. We allowed approximately 30 seconds to allow flow to reach a steady state before taking an initial data point. We then applied the torque brake in small increments of 0.2 V, 0.3 V, or 0.5 V for each wind speed, respectively, which allowed us to gather approximately the same number of data points for each wind speed. After each adjustment to the torque brake, we again allowed approximately 30 seconds before taking data to allow the flow to steady.</p>
+
+<p>–</p>
+
+<p><strong>Results form torque and power graphs at freestream of 5.5 m/s included below:</strong></p>
+
+<p><img src="/Joseph-Rachiele-Portfolio-jar574/assets/images/Results5.5.jpg" alt="Results at 5.5m/s" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 2rem auto;" /></p>
+
+<p>–</p>
+
+<p>Through this project, we were able to get an idea of the real-life obstacles of wind turbine design that are not necessarily quantifiable by a well-known mathematical model or law presented in class. We successfully designed a safely-operating blade, gathered meaningful data, and reflected on our results while identifying shortcomings of our design and experimental process.</p>
+
+<p><a href="/Joseph-Rachiele-Portfolio-jar574/assets/MAE4272-BladeDesignReport.pdf">📄 View MAE 4272 Final Blade Design Report (PDF)</a></p>
+
+
+
+<p><strong>Technologies Used</strong>: MATLAB, CAD, LabView, Excel</p>
+
+<a href=/Joseph-Rachiele-Portfolio-jar574/projects/ class="back-arrow">
+    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+</a>
+
+  </main>
+
+  <footer class="footer navbar-dark text-white text-center";>
+    <div class="container">
+      &copy; 2024 Joseph Rachiele. All rights not reserved.
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
