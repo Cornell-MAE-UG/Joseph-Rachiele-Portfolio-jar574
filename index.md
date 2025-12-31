@@ -24,7 +24,7 @@ After deciding on mechanical engineering during my sophomore year, my undergradu
 
 Besides academics, I am captain of the Cornell Track and Field team. During my freshman year, I trained diligently to earn a walk-on spot as a javelin thrower. Three years later, I am now the captain of the team and have scored in multiple conference championships. 
 
-My experiences thus far, both inside and outside of the classroom, have allowed me to develop into a well-rounded undergraduate engineer, excited to contribute to the engieering industry.
+My experiences thus far, both inside and outside of the classroom, have allowed me to develop into a well-rounded undergraduate engineer, excited to contribute to the engineering industry.
 
 
 
