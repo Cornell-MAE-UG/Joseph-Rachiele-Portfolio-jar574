@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Engineering Ethics Final Essay
+title: Engineering Ethics Essay
 description: MAE4300 Ethical Analysis Essay
 technologies: [Excel]
 image: /assets/images/MAE4300Plane.jpg
