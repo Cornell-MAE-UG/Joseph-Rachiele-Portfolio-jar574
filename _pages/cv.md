@@ -97,11 +97,7 @@ Aspiring engineering student with a strong foundation in project management and 
   - Scorer at Ivy League Heps Championship
   - Personal best mark of 58.37m
   - Lead teammates in daily throwing, weightlifting, mobility, and sprinting
-  - Assist coach with drills and equipment 
-
-- **MAE Teaching Assistant** - *For MAE2250: Mechanical Synthesis*
-  - Coordinate and directs lab sections
-  - Grade homeworks and projects   
+  - Assist coach with drills and equipment  
 
 - **Chi Psi Fraternity** - *Lodge Manager and Chief Steward*
   - Direct house and property management for on-campus housing with over 30 residents and 60 active members
